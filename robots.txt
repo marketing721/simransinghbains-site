@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /README.md
+Disallow: /.gitignore
+
+Sitemap: https://simransinghbains.com/sitemap.xml
